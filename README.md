@@ -1,4 +1,4 @@
 # demo-repository
 This is my first Git Repository.
 <br>
-author- Krishanu
+author- Krishanu kashyap
